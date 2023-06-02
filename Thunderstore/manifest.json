@@ -1,0 +1,9 @@
+{
+  "name": "Enhanced_Bosses_Redone",
+  "version_number": "1.10.2",
+  "website_url": "https://www.nexusmods.com/valheim/mods/1880",
+  "description": "Makes bosses more challenging and adds more attacks. This is a rewrite of Blumaye's Enhanced Bosses mod with many bugfixes.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2100"
+  ]
+}
